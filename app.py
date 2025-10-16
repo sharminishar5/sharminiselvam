@@ -61,4 +61,4 @@ Overall, the data highlights how Netflix balances content length with accessibil
 """)
 
 st.markdown("---")
-st.caption("© Sharmini | Tutorial 3
+st.caption("© Sharmini | Tutorial 3 Visualization App")
